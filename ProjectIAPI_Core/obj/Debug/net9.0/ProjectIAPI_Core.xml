@@ -1,0 +1,128 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ProjectIAPI_Core</name>
+    </assembly>
+    <members>
+        <member name="P:ProjectIAPI_Core.ViewModels.Login.Email">
+            <summary>
+            The email or phone number of the user.
+            </summary>
+        </member>
+        <member name="P:ProjectIAPI_Core.ViewModels.Login.Password">
+            <summary>
+            The password of the user.
+            </summary>
+        </member>
+        <member name="P:ProjectIAPI_Core.ViewModels.Login.IsSsoUser">
+            <summary>
+            Indicates if the login is via SSO.
+            </summary>
+        </member>
+        <member name="T:ProjectIAPI_Core.ViewModels.UserUpsert">
+            <summary>
+            Represents the data required to insert or update a user in the system.
+            </summary>
+        </member>
+        <member name="P:ProjectIAPI_Core.ViewModels.UserUpsert.Id">
+            <summary>
+            The ID of the user. Use 0 for insert, or a positive value for update.
+            </summary>
+        </member>
+        <member name="P:ProjectIAPI_Core.ViewModels.UserUpsert.FirstName">
+            <summary>
+            The first name of the user. Required field.
+            </summary>
+        </member>
+        <member name="P:ProjectIAPI_Core.ViewModels.UserUpsert.LastName">
+            <summary>
+            The last name of the user. Required field.
+            </summary>
+        </member>
+        <member name="P:ProjectIAPI_Core.ViewModels.UserUpsert.PhoneNumber">
+            <summary>
+            The phone number of the user. Optional field.
+            </summary>
+        </member>
+        <member name="P:ProjectIAPI_Core.ViewModels.UserUpsert.Email">
+            <summary>
+            The email address of the user. Required field.
+            </summary>
+        </member>
+        <member name="P:ProjectIAPI_Core.ViewModels.UserUpsert.Password">
+            <summary>
+            The password for the user account. Optional for updates.
+            </summary>
+        </member>
+        <member name="P:ProjectIAPI_Core.ViewModels.UserUpsert.UserType">
+            <summary>
+            The type of user account (e.g., 1 for regular user).
+            </summary>
+        </member>
+        <member name="P:ProjectIAPI_Core.ViewModels.UserUpsert.Gender">
+            <summary>
+            The gender of the user (e.g., 1 for male, 2 for female).
+            </summary>
+        </member>
+        <member name="P:ProjectIAPI_Core.ViewModels.UserUpsert.ProfilePic">
+            <summary>
+            The URL or path to the user's profile picture. Optional field.
+            </summary>
+        </member>
+        <member name="P:ProjectIAPI_Core.ViewModels.UserUpsert.Bio">
+            <summary>
+            A brief bio or description of the user. Optional field.
+            </summary>
+        </member>
+        <member name="P:ProjectIAPI_Core.ViewModels.UserUpsert.Location">
+            <summary>
+            The location of the user. Optional field.
+            </summary>
+        </member>
+        <member name="P:ProjectIAPI_Core.ViewModels.UserUpsert.CreatedBy">
+            <summary>
+            The ID of the user who created or is updating this record.
+            </summary>
+        </member>
+        <member name="P:ProjectIAPI_Core.ViewModels.UserUpsert.IsActive">
+            <summary>
+            Indicates whether the user account is active.
+            </summary>
+        </member>
+        <member name="P:ProjectIAPI_Core.ViewModels.UserUpsert.IsDeleted">
+            <summary>
+            Indicates whether the user account is marked as deleted.
+            </summary>
+        </member>
+        <member name="P:ProjectIAPI_Core.ViewModels.UserUpsert.IsSsoUser">
+            <summary>
+            Indicates whether the user account uses SSO login.
+            </summary>
+        </member>
+        <member name="P:ProjectIAPI_Core.ViewModels.UserUpsert.SocialLink">
+            <summary>
+            The URL to the user's social media profile. Optional field.
+            </summary>
+        </member>
+        <member name="T:ProjectIAPI_Core.ViewModels.UpsertUserResult">
+            <summary>
+            Represents the result of an upsert operation on a user.
+            </summary>
+        </member>
+        <member name="P:ProjectIAPI_Core.ViewModels.UpsertUserResult.ResultType">
+            <summary>
+            The result type of the operation (e.g., 0 for insert success, 1 for update success).
+            </summary>
+        </member>
+        <member name="P:ProjectIAPI_Core.ViewModels.UpsertUserResult.ResultMessage">
+            <summary>
+            The message describing the result of the operation.
+            </summary>
+        </member>
+        <member name="P:ProjectIAPI_Core.ViewModels.UpsertUserResult.UserId">
+            <summary>
+            The ID of the user affected by the operation.
+            </summary>
+        </member>
+    </members>
+</doc>

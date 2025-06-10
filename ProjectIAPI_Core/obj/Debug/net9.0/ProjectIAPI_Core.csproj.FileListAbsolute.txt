@@ -1,0 +1,98 @@
+D:\.net\ProjectIAPI\ProjectIAPI_Core\bin\Debug\net9.0\ProjectIAPI_Core.deps.json
+D:\.net\ProjectIAPI\ProjectIAPI_Core\bin\Debug\net9.0\ProjectIAPI_Core.dll
+D:\.net\ProjectIAPI\ProjectIAPI_Core\bin\Debug\net9.0\ProjectIAPI_Core.pdb
+D:\.net\ProjectIAPI\ProjectIAPI_Core\bin\Debug\net9.0\ProjectIAPI_Core.xml
+D:\.net\ProjectIAPI\ProjectIAPI_Core\obj\Debug\net9.0\ProjectIAPI_Core.csproj.AssemblyReference.cache
+D:\.net\ProjectIAPI\ProjectIAPI_Core\obj\Debug\net9.0\ProjectIAPI_Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\ProjectIAPI\ProjectIAPI_Core\obj\Debug\net9.0\ProjectIAPI_Core.AssemblyInfoInputs.cache
+D:\.net\ProjectIAPI\ProjectIAPI_Core\obj\Debug\net9.0\ProjectIAPI_Core.AssemblyInfo.cs
+D:\.net\ProjectIAPI\ProjectIAPI_Core\obj\Debug\net9.0\ProjectIAPI_Core.csproj.CoreCompileInputs.cache
+D:\.net\ProjectIAPI\ProjectIAPI_Core\obj\Debug\net9.0\ProjectIAPI_Core.dll
+D:\.net\ProjectIAPI\ProjectIAPI_Core\obj\Debug\net9.0\refint\ProjectIAPI_Core.dll
+D:\.net\ProjectIAPI\ProjectIAPI_Core\obj\Debug\net9.0\ProjectIAPI_Core.xml
+D:\.net\ProjectIAPI\ProjectIAPI_Core\obj\Debug\net9.0\ProjectIAPI_Core.pdb
+D:\.net\ProjectIAPI\ProjectIAPI_Core\obj\Debug\net9.0\ref\ProjectIAPI_Core.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI_Core\bin\Debug\net9.0\ProjectIAPI_Core.deps.json
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI_Core\bin\Debug\net9.0\ProjectIAPI_Core.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI_Core\bin\Debug\net9.0\ProjectIAPI_Core.pdb
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI_Core\bin\Debug\net9.0\ProjectIAPI_Core.xml
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI_Core\obj\Debug\net9.0\ProjectIAPI_Core.csproj.AssemblyReference.cache
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI_Core\obj\Debug\net9.0\ProjectIAPI_Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI_Core\obj\Debug\net9.0\ProjectIAPI_Core.AssemblyInfoInputs.cache
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI_Core\obj\Debug\net9.0\ProjectIAPI_Core.AssemblyInfo.cs
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI_Core\obj\Debug\net9.0\ProjectIAPI_Core.csproj.CoreCompileInputs.cache
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI_Core\obj\Debug\net9.0\ProjectIAPI_Core.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI_Core\obj\Debug\net9.0\refint\ProjectIAPI_Core.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI_Core\obj\Debug\net9.0\ProjectIAPI_Core.xml
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI_Core\obj\Debug\net9.0\ProjectIAPI_Core.pdb
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI_Core\obj\Debug\net9.0\ref\ProjectIAPI_Core.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI_Core\bin\Debug\net9.0\ProjectIAPI_Core.deps.json
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI_Core\bin\Debug\net9.0\ProjectIAPI_Core.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI_Core\bin\Debug\net9.0\ProjectIAPI_Core.pdb
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI_Core\bin\Debug\net9.0\ProjectIAPI_Core.xml
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI_Core\obj\Debug\net9.0\ProjectIAPI_Core.csproj.AssemblyReference.cache
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI_Core\obj\Debug\net9.0\ProjectIAPI_Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI_Core\obj\Debug\net9.0\ProjectIAPI_Core.AssemblyInfoInputs.cache
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI_Core\obj\Debug\net9.0\ProjectIAPI_Core.AssemblyInfo.cs
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI_Core\obj\Debug\net9.0\ProjectIAPI_Core.csproj.CoreCompileInputs.cache
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI_Core\obj\Debug\net9.0\ProjectIAPI_Core.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI_Core\obj\Debug\net9.0\refint\ProjectIAPI_Core.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI_Core\obj\Debug\net9.0\ProjectIAPI_Core.xml
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI_Core\obj\Debug\net9.0\ProjectIAPI_Core.pdb
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI_Core\obj\Debug\net9.0\ref\ProjectIAPI_Core.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI_Core\bin\Debug\net9.0\ProjectIAPI_Core.deps.json
+C:\internship\tasks\ProjectIAPI\ProjectIAPI_Core\bin\Debug\net9.0\ProjectIAPI_Core.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI_Core\bin\Debug\net9.0\ProjectIAPI_Core.pdb
+C:\internship\tasks\ProjectIAPI\ProjectIAPI_Core\bin\Debug\net9.0\ProjectIAPI_Core.xml
+C:\internship\tasks\ProjectIAPI\ProjectIAPI_Core\obj\Debug\net9.0\ProjectIAPI_Core.csproj.AssemblyReference.cache
+C:\internship\tasks\ProjectIAPI\ProjectIAPI_Core\obj\Debug\net9.0\ProjectIAPI_Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\internship\tasks\ProjectIAPI\ProjectIAPI_Core\obj\Debug\net9.0\ProjectIAPI_Core.AssemblyInfoInputs.cache
+C:\internship\tasks\ProjectIAPI\ProjectIAPI_Core\obj\Debug\net9.0\ProjectIAPI_Core.AssemblyInfo.cs
+C:\internship\tasks\ProjectIAPI\ProjectIAPI_Core\obj\Debug\net9.0\ProjectIAPI_Core.csproj.CoreCompileInputs.cache
+C:\internship\tasks\ProjectIAPI\ProjectIAPI_Core\obj\Debug\net9.0\ProjectIAPI_Core.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI_Core\obj\Debug\net9.0\refint\ProjectIAPI_Core.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI_Core\obj\Debug\net9.0\ProjectIAPI_Core.xml
+C:\internship\tasks\ProjectIAPI\ProjectIAPI_Core\obj\Debug\net9.0\ProjectIAPI_Core.pdb
+C:\internship\tasks\ProjectIAPI\ProjectIAPI_Core\obj\Debug\net9.0\ref\ProjectIAPI_Core.dll
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI_Core\bin\Debug\net9.0\ProjectIAPI_Core.deps.json
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI_Core\bin\Debug\net9.0\ProjectIAPI_Core.dll
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI_Core\bin\Debug\net9.0\ProjectIAPI_Core.pdb
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI_Core\bin\Debug\net9.0\ProjectIAPI_Core.xml
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI_Core\obj\Debug\net9.0\ProjectIAPI_Core.csproj.AssemblyReference.cache
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI_Core\obj\Debug\net9.0\ProjectIAPI_Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI_Core\obj\Debug\net9.0\ProjectIAPI_Core.AssemblyInfoInputs.cache
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI_Core\obj\Debug\net9.0\ProjectIAPI_Core.AssemblyInfo.cs
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI_Core\obj\Debug\net9.0\ProjectIAPI_Core.csproj.CoreCompileInputs.cache
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI_Core\obj\Debug\net9.0\ProjectIAPI_Core.dll
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI_Core\obj\Debug\net9.0\refint\ProjectIAPI_Core.dll
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI_Core\obj\Debug\net9.0\ProjectIAPI_Core.xml
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI_Core\obj\Debug\net9.0\ProjectIAPI_Core.pdb
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI_Core\obj\Debug\net9.0\ref\ProjectIAPI_Core.dll
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI_Core\bin\Debug\net9.0\ProjectIAPI_Core.deps.json
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI_Core\bin\Debug\net9.0\ProjectIAPI_Core.dll
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI_Core\bin\Debug\net9.0\ProjectIAPI_Core.pdb
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI_Core\bin\Debug\net9.0\ProjectIAPI_Core.xml
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI_Core\obj\Debug\net9.0\ProjectIAPI_Core.csproj.AssemblyReference.cache
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI_Core\obj\Debug\net9.0\ProjectIAPI_Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI_Core\obj\Debug\net9.0\ProjectIAPI_Core.AssemblyInfoInputs.cache
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI_Core\obj\Debug\net9.0\ProjectIAPI_Core.AssemblyInfo.cs
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI_Core\obj\Debug\net9.0\ProjectIAPI_Core.csproj.CoreCompileInputs.cache
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI_Core\obj\Debug\net9.0\ProjectIAPI_Core.dll
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI_Core\obj\Debug\net9.0\refint\ProjectIAPI_Core.dll
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI_Core\obj\Debug\net9.0\ProjectIAPI_Core.xml
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI_Core\obj\Debug\net9.0\ProjectIAPI_Core.pdb
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI_Core\obj\Debug\net9.0\ref\ProjectIAPI_Core.dll
+D:\projectIAPI_new\ProjectIAPI_Core\bin\Debug\net9.0\ProjectIAPI_Core.deps.json
+D:\projectIAPI_new\ProjectIAPI_Core\bin\Debug\net9.0\ProjectIAPI_Core.dll
+D:\projectIAPI_new\ProjectIAPI_Core\bin\Debug\net9.0\ProjectIAPI_Core.pdb
+D:\projectIAPI_new\ProjectIAPI_Core\bin\Debug\net9.0\ProjectIAPI_Core.xml
+D:\projectIAPI_new\ProjectIAPI_Core\obj\Debug\net9.0\ProjectIAPI_Core.csproj.AssemblyReference.cache
+D:\projectIAPI_new\ProjectIAPI_Core\obj\Debug\net9.0\ProjectIAPI_Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\projectIAPI_new\ProjectIAPI_Core\obj\Debug\net9.0\ProjectIAPI_Core.AssemblyInfoInputs.cache
+D:\projectIAPI_new\ProjectIAPI_Core\obj\Debug\net9.0\ProjectIAPI_Core.AssemblyInfo.cs
+D:\projectIAPI_new\ProjectIAPI_Core\obj\Debug\net9.0\ProjectIAPI_Core.csproj.CoreCompileInputs.cache
+D:\projectIAPI_new\ProjectIAPI_Core\obj\Debug\net9.0\ProjectIAPI_Core.dll
+D:\projectIAPI_new\ProjectIAPI_Core\obj\Debug\net9.0\refint\ProjectIAPI_Core.dll
+D:\projectIAPI_new\ProjectIAPI_Core\obj\Debug\net9.0\ProjectIAPI_Core.xml
+D:\projectIAPI_new\ProjectIAPI_Core\obj\Debug\net9.0\ProjectIAPI_Core.pdb
+D:\projectIAPI_new\ProjectIAPI_Core\obj\Debug\net9.0\ref\ProjectIAPI_Core.dll
