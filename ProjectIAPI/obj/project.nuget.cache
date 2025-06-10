@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2/R+bQHsP14=",
+  "dgSpecHash": "exHP324PhoQ=",
   "success": true,
-  "projectFilePath": "d:\\projectIAPI_new\\ProjectIAPI\\ProjectIAPI.csproj",
+  "projectFilePath": "D:\\projectIAPI_new\\ProjectIAPI\\ProjectIAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\VishwaRoopa\\.nuget\\packages\\dapper\\2.1.66\\dapper.2.1.66.nupkg.sha512",
     "C:\\Users\\VishwaRoopa\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\9.0.3\\microsoft.aspnetcore.authentication.jwtbearer.9.0.3.nupkg.sha512",

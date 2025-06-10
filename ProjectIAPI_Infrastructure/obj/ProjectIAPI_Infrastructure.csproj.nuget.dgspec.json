@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\projectIAPI_new\\ProjectIAPI_Infrastructure\\ProjectIAPI_Infrastructure.csproj": {}
+    "D:\\projectIAPI_new\\ProjectIAPI_Infrastructure\\ProjectIAPI_Infrastructure.csproj": {}
   },
   "projects": {
-    "d:\\projectIAPI_new\\ProjectIAPI_Core\\ProjectIAPI_Core.csproj": {
+    "D:\\projectIAPI_new\\ProjectIAPI_Core\\ProjectIAPI_Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\projectIAPI_new\\ProjectIAPI_Core\\ProjectIAPI_Core.csproj",
+        "projectUniqueName": "D:\\projectIAPI_new\\ProjectIAPI_Core\\ProjectIAPI_Core.csproj",
         "projectName": "ProjectIAPI_Core",
-        "projectPath": "d:\\projectIAPI_new\\ProjectIAPI_Core\\ProjectIAPI_Core.csproj",
+        "projectPath": "D:\\projectIAPI_new\\ProjectIAPI_Core\\ProjectIAPI_Core.csproj",
         "packagesPath": "C:\\Users\\VishwaRoopa\\.nuget\\packages\\",
-        "outputPath": "d:\\projectIAPI_new\\ProjectIAPI_Core\\obj\\",
+        "outputPath": "D:\\projectIAPI_new\\ProjectIAPI_Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\VishwaRoopa\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "d:\\projectIAPI_new\\ProjectIAPI_Infrastructure\\ProjectIAPI_Infrastructure.csproj": {
+    "D:\\projectIAPI_new\\ProjectIAPI_Infrastructure\\ProjectIAPI_Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\projectIAPI_new\\ProjectIAPI_Infrastructure\\ProjectIAPI_Infrastructure.csproj",
+        "projectUniqueName": "D:\\projectIAPI_new\\ProjectIAPI_Infrastructure\\ProjectIAPI_Infrastructure.csproj",
         "projectName": "ProjectIAPI_Infrastructure",
-        "projectPath": "d:\\projectIAPI_new\\ProjectIAPI_Infrastructure\\ProjectIAPI_Infrastructure.csproj",
+        "projectPath": "D:\\projectIAPI_new\\ProjectIAPI_Infrastructure\\ProjectIAPI_Infrastructure.csproj",
         "packagesPath": "C:\\Users\\VishwaRoopa\\.nuget\\packages\\",
-        "outputPath": "d:\\projectIAPI_new\\ProjectIAPI_Infrastructure\\obj\\",
+        "outputPath": "D:\\projectIAPI_new\\ProjectIAPI_Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\VishwaRoopa\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -91,8 +91,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "d:\\projectIAPI_new\\ProjectIAPI_Core\\ProjectIAPI_Core.csproj": {
-                "projectPath": "d:\\projectIAPI_new\\ProjectIAPI_Core\\ProjectIAPI_Core.csproj"
+              "D:\\projectIAPI_new\\ProjectIAPI_Core\\ProjectIAPI_Core.csproj": {
+                "projectPath": "D:\\projectIAPI_new\\ProjectIAPI_Core\\ProjectIAPI_Core.csproj"
               }
             }
           }
