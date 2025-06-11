@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="300dp"
+    android:height="300dp"
+    android:viewportWidth="300"
+    android:viewportHeight="300">
+
+    <!-- Logo symbol -->
+    <path android:pathData="M150,50 C100,50 60,90 60,140 C60,190 100,230 150,230 C200,230 240,190 240,140 C240,90 200,50 150,50 M150,80 C120,80 90,110 90,140 C90,170 120,200 150,200 C180,200 210,170 210,140 C210,110 180,80 150,80 M150,120 L150,160 M130,140 L170,140">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:type="linear"
+                android:startX="60"
+                android:startY="140"
+                android:endX="240"
+                android:endY="140">
+                <item android:offset="0" android:color="#FF2196F3"/>
+                <item android:offset="1" android:color="#FF9C27B0"/>
+            </gradient>
+        </aapt:attr>
+        <aapt:attr name="android:strokeColor">
+            <gradient
+                android:type="linear"
+                android:startX="60"
+                android:startY="140"
+                android:endX="240"
+                android:endY="140">
+                <item android:offset="0" android:color="#FF2196F3"/>
+                <item android:offset="1" android:color="#FF9C27B0"/>
+            </gradient>
+        </aapt:attr>
+        android:strokeWidth="2"
+    </path>
+
+    <!-- UDYOTVI text -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M60,250 L240,250 L240,260 L60,260 Z"/>
+    
+    <path
+        android:fillColor="#000000"
+        android:pathData="M65,280 h20 v-30 h20 v30 h20 l-30,20 l-30,-20 M140,250 h20 v30 h-20 v-30 M170,250 h20 v30 h-20 v-30 M200,250 h20 l-10,30 l-10,-30 M230,250 h20 v30 h-20 v-30 M260,250 h20 v30 h-20 v-30"/>
+
+    <!-- Tagline -->
+    <path
+        android:fillColor="#666666"
+        android:strokeColor="#666666"
+        android:strokeWidth="1"
+        android:pathData="M65,295 L235,295"/>
+
+</vector> 
