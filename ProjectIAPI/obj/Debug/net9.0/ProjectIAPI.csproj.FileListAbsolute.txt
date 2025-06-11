@@ -1,0 +1,515 @@
+D:\.net\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\appsettings.Development.json
+D:\.net\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\appsettings.json
+D:\.net\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\ProjectIAPI.staticwebassets.endpoints.json
+D:\.net\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\ProjectIAPI.exe
+D:\.net\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\ProjectIAPI.deps.json
+D:\.net\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\ProjectIAPI.runtimeconfig.json
+D:\.net\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\ProjectIAPI.dll
+D:\.net\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\ProjectIAPI.pdb
+D:\.net\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\ProjectIAPI.xml
+D:\.net\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\.net\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\.net\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\.net\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\.net\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\.net\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\.net\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\.net\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\.net\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\.net\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\.net\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\.net\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\.net\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\.net\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\.net\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\.net\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\.net\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\.net\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\.net\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\.net\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\.net\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\.net\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\.net\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\NetTopologySuite.dll
+D:\.net\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\NetTopologySuite.IO.PostGis.dll
+D:\.net\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\.net\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Newtonsoft.Json.Bson.dll
+D:\.net\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Npgsql.dll
+D:\.net\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\.net\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Npgsql.NetTopologySuite.dll
+D:\.net\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.Annotations.dll
+D:\.net\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\.net\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\.net\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\.net\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\.net\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\ProjectIAPI_Core.dll
+D:\.net\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\ProjectIAPI_Infrastructure.dll
+D:\.net\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\ProjectIAPI_Core.pdb
+D:\.net\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\ProjectIAPI_Core.xml
+D:\.net\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\ProjectIAPI_Infrastructure.pdb
+D:\.net\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\ProjectIAPI.csproj.AssemblyReference.cache
+D:\.net\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\ProjectIAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\ProjectIAPI.AssemblyInfoInputs.cache
+D:\.net\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\ProjectIAPI.AssemblyInfo.cs
+D:\.net\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\ProjectIAPI.csproj.CoreCompileInputs.cache
+D:\.net\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\ProjectIAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\.net\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\ProjectIAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\.net\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\scopedcss\bundle\ProjectIAPI.styles.css
+D:\.net\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\staticwebassets.build.json
+D:\.net\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\staticwebassets.development.json
+D:\.net\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\.net\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\staticwebassets\msbuild.ProjectIAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\.net\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\staticwebassets\msbuild.ProjectIAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\.net\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\staticwebassets\msbuild.build.ProjectIAPI.props
+D:\.net\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.ProjectIAPI.props
+D:\.net\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.ProjectIAPI.props
+D:\.net\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\staticwebassets.pack.json
+D:\.net\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\ProjectI.DE220F5F.Up2Date
+D:\.net\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\ProjectIAPI.dll
+D:\.net\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\refint\ProjectIAPI.dll
+D:\.net\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\ProjectIAPI.xml
+D:\.net\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\ProjectIAPI.pdb
+D:\.net\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\ProjectIAPI.genruntimeconfig.cache
+D:\.net\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\ref\ProjectIAPI.dll
+D:\.net\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Dapper.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\appsettings.Development.json
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\appsettings.json
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\ProjectIAPI.staticwebassets.endpoints.json
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\ProjectIAPI.exe
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\ProjectIAPI.deps.json
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\ProjectIAPI.runtimeconfig.json
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\ProjectIAPI.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\ProjectIAPI.pdb
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\ProjectIAPI.xml
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Dapper.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\NetTopologySuite.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\NetTopologySuite.IO.PostGis.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Newtonsoft.Json.Bson.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Npgsql.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Npgsql.NetTopologySuite.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\ProjectIAPI_Core.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\ProjectIAPI_Infrastructure.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\ProjectIAPI_Core.pdb
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\ProjectIAPI_Core.xml
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\ProjectIAPI_Infrastructure.pdb
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\ProjectIAPI.csproj.AssemblyReference.cache
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\ProjectIAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\ProjectIAPI.AssemblyInfoInputs.cache
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\ProjectIAPI.AssemblyInfo.cs
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\ProjectIAPI.csproj.CoreCompileInputs.cache
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\ProjectIAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\ProjectIAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\scopedcss\bundle\ProjectIAPI.styles.css
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\staticwebassets.build.json
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\staticwebassets.development.json
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\staticwebassets\msbuild.ProjectIAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\staticwebassets\msbuild.ProjectIAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\staticwebassets\msbuild.build.ProjectIAPI.props
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.ProjectIAPI.props
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.ProjectIAPI.props
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\staticwebassets.pack.json
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\ProjectI.DE220F5F.Up2Date
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\ProjectIAPI.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\refint\ProjectIAPI.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\ProjectIAPI.xml
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\ProjectIAPI.pdb
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\ProjectIAPI.genruntimeconfig.cache
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\ref\ProjectIAPI.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\appsettings.Development.json
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\appsettings.json
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\ProjectIAPI.staticwebassets.endpoints.json
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\ProjectIAPI.exe
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\ProjectIAPI.deps.json
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\ProjectIAPI.runtimeconfig.json
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\ProjectIAPI.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\ProjectIAPI.pdb
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\ProjectIAPI.xml
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Dapper.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\NetTopologySuite.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\NetTopologySuite.IO.PostGis.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Newtonsoft.Json.Bson.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Npgsql.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Npgsql.NetTopologySuite.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\ProjectIAPI_Core.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\ProjectIAPI_Infrastructure.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\ProjectIAPI_Core.pdb
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\ProjectIAPI_Core.xml
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\ProjectIAPI_Infrastructure.pdb
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\ProjectIAPI.csproj.AssemblyReference.cache
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\ProjectIAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\ProjectIAPI.AssemblyInfoInputs.cache
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\ProjectIAPI.AssemblyInfo.cs
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\ProjectIAPI.csproj.CoreCompileInputs.cache
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\ProjectIAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\ProjectIAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\scopedcss\bundle\ProjectIAPI.styles.css
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\staticwebassets.build.json
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\staticwebassets.development.json
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\staticwebassets\msbuild.ProjectIAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\staticwebassets\msbuild.ProjectIAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\staticwebassets\msbuild.build.ProjectIAPI.props
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.ProjectIAPI.props
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.ProjectIAPI.props
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\staticwebassets.pack.json
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\ProjectI.DE220F5F.Up2Date
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\ProjectIAPI.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\refint\ProjectIAPI.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\ProjectIAPI.xml
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\ProjectIAPI.pdb
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\ProjectIAPI.genruntimeconfig.cache
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\ref\ProjectIAPI.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\appsettings.Development.json
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\appsettings.json
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\ProjectIAPI.staticwebassets.endpoints.json
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\ProjectIAPI.exe
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\ProjectIAPI.deps.json
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\ProjectIAPI.runtimeconfig.json
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\ProjectIAPI.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\ProjectIAPI.pdb
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\ProjectIAPI.xml
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Dapper.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\NetTopologySuite.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\NetTopologySuite.IO.PostGis.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Newtonsoft.Json.Bson.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Npgsql.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Npgsql.NetTopologySuite.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\ProjectIAPI_Core.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\ProjectIAPI_Infrastructure.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\ProjectIAPI_Core.pdb
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\ProjectIAPI_Core.xml
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\ProjectIAPI_Infrastructure.pdb
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\ProjectIAPI.csproj.AssemblyReference.cache
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\ProjectIAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\ProjectIAPI.AssemblyInfoInputs.cache
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\ProjectIAPI.AssemblyInfo.cs
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\ProjectIAPI.csproj.CoreCompileInputs.cache
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\ProjectIAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\ProjectIAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\scopedcss\bundle\ProjectIAPI.styles.css
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\staticwebassets.build.json
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\staticwebassets.development.json
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\staticwebassets\msbuild.ProjectIAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\staticwebassets\msbuild.ProjectIAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\staticwebassets\msbuild.build.ProjectIAPI.props
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.ProjectIAPI.props
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.ProjectIAPI.props
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\staticwebassets.pack.json
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\ProjectI.DE220F5F.Up2Date
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\ProjectIAPI.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\refint\ProjectIAPI.dll
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\ProjectIAPI.xml
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\ProjectIAPI.pdb
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\ProjectIAPI.genruntimeconfig.cache
+C:\internship\tasks\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\ref\ProjectIAPI.dll
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\appsettings.Development.json
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\appsettings.json
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\ProjectIAPI.staticwebassets.endpoints.json
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\ProjectIAPI.exe
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\ProjectIAPI.deps.json
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\ProjectIAPI.runtimeconfig.json
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\ProjectIAPI.dll
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\ProjectIAPI.pdb
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\ProjectIAPI.xml
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Dapper.dll
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\NetTopologySuite.dll
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\NetTopologySuite.IO.PostGis.dll
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Newtonsoft.Json.Bson.dll
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Npgsql.dll
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Npgsql.NetTopologySuite.dll
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.Annotations.dll
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\ProjectIAPI_Core.dll
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\ProjectIAPI_Infrastructure.dll
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\ProjectIAPI_Core.pdb
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\ProjectIAPI_Core.xml
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\ProjectIAPI_Infrastructure.pdb
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\ProjectIAPI.csproj.AssemblyReference.cache
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\ProjectIAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\ProjectIAPI.AssemblyInfoInputs.cache
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\ProjectIAPI.AssemblyInfo.cs
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\ProjectIAPI.csproj.CoreCompileInputs.cache
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\ProjectIAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\ProjectIAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\scopedcss\bundle\ProjectIAPI.styles.css
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\staticwebassets.build.json
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\staticwebassets.development.json
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\staticwebassets\msbuild.ProjectIAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\staticwebassets\msbuild.ProjectIAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\staticwebassets\msbuild.build.ProjectIAPI.props
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.ProjectIAPI.props
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.ProjectIAPI.props
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\staticwebassets.pack.json
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\ProjectI.DE220F5F.Up2Date
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\ProjectIAPI.dll
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\refint\ProjectIAPI.dll
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\ProjectIAPI.xml
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\ProjectIAPI.pdb
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\ProjectIAPI.genruntimeconfig.cache
+D:\.net\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\ref\ProjectIAPI.dll
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\appsettings.json
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\ProjectIAPI.staticwebassets.endpoints.json
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\ProjectIAPI.exe
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\ProjectIAPI.deps.json
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\ProjectIAPI.runtimeconfig.json
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\ProjectIAPI.dll
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\ProjectIAPI.pdb
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\ProjectIAPI.xml
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Dapper.dll
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\NetTopologySuite.dll
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\NetTopologySuite.IO.PostGis.dll
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Newtonsoft.Json.Bson.dll
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Npgsql.dll
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Npgsql.NetTopologySuite.dll
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\ProjectIAPI_Core.dll
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\ProjectIAPI_Infrastructure.dll
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\ProjectIAPI_Core.pdb
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\ProjectIAPI_Core.xml
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI\bin\Debug\net9.0\ProjectIAPI_Infrastructure.pdb
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\ProjectIAPI.csproj.AssemblyReference.cache
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\ProjectIAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\ProjectIAPI.AssemblyInfoInputs.cache
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\ProjectIAPI.AssemblyInfo.cs
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\ProjectIAPI.csproj.CoreCompileInputs.cache
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\ProjectIAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\ProjectIAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\scopedcss\bundle\ProjectIAPI.styles.css
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\staticwebassets\msbuild.ProjectIAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\staticwebassets\msbuild.ProjectIAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\staticwebassets\msbuild.build.ProjectIAPI.props
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.ProjectIAPI.props
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.ProjectIAPI.props
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\ProjectI.DE220F5F.Up2Date
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\ProjectIAPI.dll
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\refint\ProjectIAPI.dll
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\ProjectIAPI.xml
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\ProjectIAPI.pdb
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\ProjectIAPI.genruntimeconfig.cache
+C:\Users\VishwaRoopa\Downloads\ProjectIAPI (2)\ProjectIAPI\ProjectIAPI\ProjectIAPI\obj\Debug\net9.0\ref\ProjectIAPI.dll
+D:\projectIAPI_new\ProjectIAPI\bin\Debug\net9.0\appsettings.Development.json
+D:\projectIAPI_new\ProjectIAPI\bin\Debug\net9.0\appsettings.json
+D:\projectIAPI_new\ProjectIAPI\bin\Debug\net9.0\ProjectIAPI.staticwebassets.endpoints.json
+D:\projectIAPI_new\ProjectIAPI\bin\Debug\net9.0\ProjectIAPI.exe
+D:\projectIAPI_new\ProjectIAPI\bin\Debug\net9.0\ProjectIAPI.deps.json
+D:\projectIAPI_new\ProjectIAPI\bin\Debug\net9.0\ProjectIAPI.runtimeconfig.json
+D:\projectIAPI_new\ProjectIAPI\bin\Debug\net9.0\ProjectIAPI.dll
+D:\projectIAPI_new\ProjectIAPI\bin\Debug\net9.0\ProjectIAPI.pdb
+D:\projectIAPI_new\ProjectIAPI\bin\Debug\net9.0\ProjectIAPI.xml
+D:\projectIAPI_new\ProjectIAPI\bin\Debug\net9.0\Dapper.dll
+D:\projectIAPI_new\ProjectIAPI\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\projectIAPI_new\ProjectIAPI\bin\Debug\net9.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\projectIAPI_new\ProjectIAPI\bin\Debug\net9.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\projectIAPI_new\ProjectIAPI\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\projectIAPI_new\ProjectIAPI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\projectIAPI_new\ProjectIAPI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\projectIAPI_new\ProjectIAPI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\projectIAPI_new\ProjectIAPI\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\projectIAPI_new\ProjectIAPI\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\projectIAPI_new\ProjectIAPI\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\projectIAPI_new\ProjectIAPI\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\projectIAPI_new\ProjectIAPI\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\projectIAPI_new\ProjectIAPI\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\projectIAPI_new\ProjectIAPI\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\projectIAPI_new\ProjectIAPI\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\projectIAPI_new\ProjectIAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\projectIAPI_new\ProjectIAPI\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\projectIAPI_new\ProjectIAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\projectIAPI_new\ProjectIAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\projectIAPI_new\ProjectIAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\projectIAPI_new\ProjectIAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\projectIAPI_new\ProjectIAPI\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\projectIAPI_new\ProjectIAPI\bin\Debug\net9.0\NetTopologySuite.dll
+D:\projectIAPI_new\ProjectIAPI\bin\Debug\net9.0\NetTopologySuite.IO.PostGis.dll
+D:\projectIAPI_new\ProjectIAPI\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\projectIAPI_new\ProjectIAPI\bin\Debug\net9.0\Newtonsoft.Json.Bson.dll
+D:\projectIAPI_new\ProjectIAPI\bin\Debug\net9.0\Npgsql.dll
+D:\projectIAPI_new\ProjectIAPI\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\projectIAPI_new\ProjectIAPI\bin\Debug\net9.0\Npgsql.NetTopologySuite.dll
+D:\projectIAPI_new\ProjectIAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.Annotations.dll
+D:\projectIAPI_new\ProjectIAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\projectIAPI_new\ProjectIAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\projectIAPI_new\ProjectIAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\projectIAPI_new\ProjectIAPI\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\projectIAPI_new\ProjectIAPI\bin\Debug\net9.0\ProjectIAPI_Core.dll
+D:\projectIAPI_new\ProjectIAPI\bin\Debug\net9.0\ProjectIAPI_Infrastructure.dll
+D:\projectIAPI_new\ProjectIAPI\bin\Debug\net9.0\ProjectIAPI_Core.pdb
+D:\projectIAPI_new\ProjectIAPI\bin\Debug\net9.0\ProjectIAPI_Core.xml
+D:\projectIAPI_new\ProjectIAPI\bin\Debug\net9.0\ProjectIAPI_Infrastructure.pdb
+D:\projectIAPI_new\ProjectIAPI\obj\Debug\net9.0\ProjectIAPI.csproj.AssemblyReference.cache
+D:\projectIAPI_new\ProjectIAPI\obj\Debug\net9.0\ProjectIAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\projectIAPI_new\ProjectIAPI\obj\Debug\net9.0\ProjectIAPI.AssemblyInfoInputs.cache
+D:\projectIAPI_new\ProjectIAPI\obj\Debug\net9.0\ProjectIAPI.AssemblyInfo.cs
+D:\projectIAPI_new\ProjectIAPI\obj\Debug\net9.0\ProjectIAPI.csproj.CoreCompileInputs.cache
+D:\projectIAPI_new\ProjectIAPI\obj\Debug\net9.0\ProjectIAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\projectIAPI_new\ProjectIAPI\obj\Debug\net9.0\ProjectIAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\projectIAPI_new\ProjectIAPI\obj\Debug\net9.0\scopedcss\bundle\ProjectIAPI.styles.css
+D:\projectIAPI_new\ProjectIAPI\obj\Debug\net9.0\staticwebassets.build.json
+D:\projectIAPI_new\ProjectIAPI\obj\Debug\net9.0\staticwebassets.development.json
+D:\projectIAPI_new\ProjectIAPI\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\projectIAPI_new\ProjectIAPI\obj\Debug\net9.0\staticwebassets\msbuild.ProjectIAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\projectIAPI_new\ProjectIAPI\obj\Debug\net9.0\staticwebassets\msbuild.ProjectIAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\projectIAPI_new\ProjectIAPI\obj\Debug\net9.0\staticwebassets\msbuild.build.ProjectIAPI.props
+D:\projectIAPI_new\ProjectIAPI\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.ProjectIAPI.props
+D:\projectIAPI_new\ProjectIAPI\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.ProjectIAPI.props
+D:\projectIAPI_new\ProjectIAPI\obj\Debug\net9.0\staticwebassets.pack.json
+D:\projectIAPI_new\ProjectIAPI\obj\Debug\net9.0\ProjectI.DE220F5F.Up2Date
+D:\projectIAPI_new\ProjectIAPI\obj\Debug\net9.0\ProjectIAPI.dll
+D:\projectIAPI_new\ProjectIAPI\obj\Debug\net9.0\refint\ProjectIAPI.dll
+D:\projectIAPI_new\ProjectIAPI\obj\Debug\net9.0\ProjectIAPI.xml
+D:\projectIAPI_new\ProjectIAPI\obj\Debug\net9.0\ProjectIAPI.pdb
+D:\projectIAPI_new\ProjectIAPI\obj\Debug\net9.0\ProjectIAPI.genruntimeconfig.cache
+D:\projectIAPI_new\ProjectIAPI\obj\Debug\net9.0\ref\ProjectIAPI.dll
+D:\projectIAPI_new\ProjectIAPI\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
